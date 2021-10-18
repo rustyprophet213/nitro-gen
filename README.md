@@ -5,9 +5,10 @@
 
 
 Requirements:
-1. Python (version 3.0+)
-2. basic python knowledge (recommended but not necessary
-Get from here: https://www.python.org/downloads/
+1. Python (version 3.0+). Get from here: https://www.python.org/downloads/
+2. Git. Get from here https://git-scm.com/downloads
+3. Basic python knowledge (recommended but not necessary)
+
 
 Usage:
 1. Open command prompt
