@@ -15,7 +15,7 @@ while ans:
         
         def gen():
             lim = int(input("Enter amount of codes: "))
-            for i in range(0, lim + 1):
+            for i in range(0, lim):
                 x = ''.join(random.choice(string.ascii_uppercase + string.ascii_lowercase + string.digits) for _ in range(16))
                 print("discord.gift/", x, sep='')
         gen()
