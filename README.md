@@ -1,6 +1,6 @@
-# nitro-gen
+# A simple discord nitro generator
 
-A simple discord nitro generator by me
+
 
 
 
