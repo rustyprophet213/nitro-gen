@@ -11,7 +11,7 @@ Requirements:
 
 
 Usage:
-1. Open command prompt
+1. Fire up command prompt
 2. git clone https://github.com/rustyprophet213/nitro-gen.git
 3. cd (your generator location)
 4. python main.py
