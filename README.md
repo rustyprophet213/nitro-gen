@@ -15,6 +15,6 @@ Usage:
 4. python main.py
 5. select desired option
 
-Python version must be 3.0+
+
 
 Thats it folks :))
