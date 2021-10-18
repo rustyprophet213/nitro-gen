@@ -5,7 +5,8 @@
 
 
 Requirements:
-Python (version 3.0+)
+1. Python (version 3.0+)
+2. basic python knowledge (recommended but not necessary
 Get from here: https://www.python.org/downloads/
 
 Usage:
