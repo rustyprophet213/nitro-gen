@@ -13,7 +13,7 @@ Requirements:
 Usage:
 1. Fire up command prompt
 2. git clone https://github.com/rustyprophet213/nitro-gen.git
-3. cd (your generator location)
+3. cd (location of the nitro generator folder)
 4. python main.py
 5. select desired option
 
